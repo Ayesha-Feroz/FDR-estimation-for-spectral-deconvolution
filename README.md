@@ -1,4 +1,3 @@
 # FDR-estimation-for-spectral-deconvolution
 The complex ion structure of proteoforms poses challenges in Top-Down Proteomics (TDP) data analysis. Spectral deconvolution (i.e., the ion masses that yielded the spectral signals, is a key initial step in TDP data analysis. While effective in simplifying the followup analyses, erroneously deconvolved masses propagate to the next steps causing false positives, which may not be readily controlled by conventional methods (e.g., target-decoy database for identification). To tackle this, we developed a false discovery rate (FDR) estimation method for deconvolution using "decoy masses" to simulate false-positive masses and intensively evaluated it using both in silico and experimental spectra. 
 
-<img width="1416" alt="image" src="https://github.com/user-attachments/assets/f9ca420f-5711-43cf-806d-4fc315503ca1" />
